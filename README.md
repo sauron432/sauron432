@@ -20,57 +20,6 @@ Git · Docker · Web Scraping (BeautifulSoup)
 
 ---
 
-## Selected Projects
-
-### Stock Web App
-
-Built a data-driven web application for stock analysis and visualization, integrating external APIs with backend logic to deliver dynamic financial insights.
-
-**Tech:** Python · APIs · Web Development
-
----
-
-### EV Range Prediction
-
-Developed a machine learning model to predict electric vehicle range using data preprocessing, feature engineering, and model evaluation techniques.
-
-**Tech:** Python · Machine Learning · Pandas · NumPy
-
----
-
-### ODCRU – RAG System
-
-Designed a Retrieval-Augmented Generation system to improve response accuracy by combining document retrieval with language model generation.
-
-**Tech:** Python · NLP · RAG
-
----
-
-### News Scraping Pipeline
-
-Engineered automated scraping pipelines to collect, clean, and structure news data from web sources for downstream analysis.
-
-**Tech:** Python · BeautifulSoup
-
----
-
-### PHP Internship Project
-
-Contributed to backend development in a real-world environment, implementing features and improving application functionality using PHP.
-
-**Tech:** PHP · Web Development
-
----
-
-## Focus Areas
-
-* Data-driven application development
-* Machine Learning systems
-* Backend engineering
-* Scalable data pipelines
-
----
-
 ## Connect
 
 GitHub: https://github.com/sauron432
